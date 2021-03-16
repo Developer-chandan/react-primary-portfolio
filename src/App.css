@@ -1,0 +1,207 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  background-color: #0d1238;
+}
+
+.logo{
+  width:200px;
+}
+
+.navbar{
+  padding-top:0rem !important;
+  padding-bottom: 0rem !important;
+}
+.navbar-nav{
+  margin-left: auto !important;
+}
+
+
+.nav-link{
+  transition:all .3s !important;
+  border:2px dotted #212529;
+  border-radius: 20px;
+  padding:0px 10px !important;
+}
+.nav-link:hover{
+  border:2px dotted #ffc107;
+  border-radius: 20px;
+
+}
+
+
+/* .nav-item:hover .nav-link{
+  color:yellow !important;
+} */
+.navbar-nav .nav-item a{
+  color:#fff !important;
+  font-size: 1.2rem;
+}
+.navbar-nav .nav-item{
+  margin-right: 15px !important;
+}
+
+.sociallinks{
+  overflow: hidden;
+  padding-left:0rem;
+  margin-top: 10px;
+}
+.sociallinks li{
+  float: left;
+  margin: 0px 10px;
+  width: 40px;
+  height:40px;
+  border:1px solid #ddd;
+  border-radius: 100%;
+  display: grid;
+  place-items:center;
+  cursor: pointer;
+  transition: all .6s;
+
+}
+
+.sociallinks .facebook-link{
+  margin-left:0px;
+}
+.sociallinks li i{
+  color:#ddd;
+  font-size: 1.1rem;
+  background:#fff0;
+  transition: all .6s;
+
+}
+.sociallinks li:hover{
+
+}
+
+
+.sociallinks li:hover .fa-facebook-f{
+  color:#fff;
+  background: blue;
+
+}
+.sociallinks .facebook-link:hover {
+  background:blue;
+    border:1px solid blue;
+}
+
+.sociallinks .instagram-link:hover i{
+  color:red;
+  background: #ddd;
+
+
+}
+.sociallinks .instagram-link:hover {
+  background:#ddd;
+  border:1px solid #ddd;
+
+}
+
+.sociallinks .twitter-link:hover i{
+  color:#fff;
+  background: blue;
+
+
+}
+.sociallinks .twitter-link:hover {
+  background:blue;
+  border:1px solid blue;
+
+}
+
+.sociallinks .linkdin-link:hover i{
+  color:#ddd;
+  background: blue;
+
+
+
+}
+.sociallinks .linkdin-link:hover {
+  background:blue;
+  border:1px solid blue;
+
+}
+.cover-wraper{
+  width: 70%;
+  margin: auto;
+}
+.coverimage{
+  border:5px solid #ddd;
+  width: 100%;
+}
+
+/***   Card Style***/
+.card{
+  width: 100%;
+}
+.card img{
+  width: 100%;
+  height: 300px;
+}
+
+.contactBoxes label{
+  color:#fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
