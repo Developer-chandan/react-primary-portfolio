@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-primary-portfolio/static/css/main.3b571cdf.chunk.css",
+    "main.js": "/react-primary-portfolio/static/js/main.dac8fd57.chunk.js",
+    "main.js.map": "/react-primary-portfolio/static/js/main.dac8fd57.chunk.js.map",
+    "runtime-main.js": "/react-primary-portfolio/static/js/runtime-main.e3024f12.js",
+    "runtime-main.js.map": "/react-primary-portfolio/static/js/runtime-main.e3024f12.js.map",
+    "static/css/2.d88ace5d.chunk.css": "/react-primary-portfolio/static/css/2.d88ace5d.chunk.css",
+    "static/js/2.f52d2321.chunk.js": "/react-primary-portfolio/static/js/2.f52d2321.chunk.js",
+    "static/js/2.f52d2321.chunk.js.map": "/react-primary-portfolio/static/js/2.f52d2321.chunk.js.map",
+    "index.html": "/react-primary-portfolio/index.html",
+    "static/css/2.d88ace5d.chunk.css.map": "/react-primary-portfolio/static/css/2.d88ace5d.chunk.css.map",
+    "static/css/main.3b571cdf.chunk.css.map": "/react-primary-portfolio/static/css/main.3b571cdf.chunk.css.map",
+    "static/js/2.f52d2321.chunk.js.LICENSE.txt": "/react-primary-portfolio/static/js/2.f52d2321.chunk.js.LICENSE.txt",
+    "static/media/blog-webdesigntrends-2019.6dfa1e73.jpg": "/react-primary-portfolio/static/media/blog-webdesigntrends-2019.6dfa1e73.jpg",
+    "static/media/cover.0a746dfa.png": "/react-primary-portfolio/static/media/cover.0a746dfa.png",
+    "static/media/logo.6ce24c58.svg": "/react-primary-portfolio/static/media/logo.6ce24c58.svg",
+    "static/media/necklace.eef2461c.jpg": "/react-primary-portfolio/static/media/necklace.eef2461c.jpg",
+    "static/media/set.14f62895.jpg": "/react-primary-portfolio/static/media/set.14f62895.jpg",
+    "static/media/wallet.e23354ff.jpg": "/react-primary-portfolio/static/media/wallet.e23354ff.jpg",
+    "static/media/web-developer-chandan.8fbbb416.JPG": "/react-primary-portfolio/static/media/web-developer-chandan.8fbbb416.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3024f12.js",
+    "static/css/2.d88ace5d.chunk.css",
+    "static/js/2.f52d2321.chunk.js",
+    "static/css/main.3b571cdf.chunk.css",
+    "static/js/main.dac8fd57.chunk.js"
+  ]
+}
